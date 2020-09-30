@@ -6,7 +6,7 @@ class Calculator extends Component {
     super(props);
     this.state = {
       calKeys: [1, 2, 3, 4, 5, 6, 7, 8, 9, 0],
-      displayValue: "",
+      displayValue: 0,
       prevVal: 0,
       signVal: ""
     };
