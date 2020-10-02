@@ -20,7 +20,7 @@ class DigitalClock extends Component {
   }
 
   render() {
-    const { time, displaydate } = this.state;
+    const { time } = this.state;
     let date;
     if (this.state.checked) {
       date = <h2>{time.toLocaleDateString()}</h2>;
