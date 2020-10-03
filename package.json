@@ -8,9 +8,16 @@
   ],
   "main": "src/index.js",
   "dependencies": {
+    "bootstrap": "4.5.2",
+    "bootstrap.min.js": "3.3.5",
+    "bootstrap4-min-css": "1.0.1",
+    "jquery": "3.5.1",
+    "popper.js": "1.16.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-moment": "1.0.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
     "react-scripts": "3.4.3"
   },
   "devDependencies": {
