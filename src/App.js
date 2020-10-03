@@ -14,6 +14,7 @@ export default function App() {
       {/* Assignment5 */}
       {/* <DigitalClock /> */}
 
+      {/* Assignment6 */}
       <HorizontalMenu />
     </div>
   );
